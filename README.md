@@ -1,6 +1,6 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Project Name
+# Hello Microverse
 
 > This project is part of the "Set up a 'Hello Microverse' project" for Week 01 of the Microverse program
  
@@ -17,7 +17,7 @@ Additional description about the project and its features.
 To get a local copy up and running follow these simple example steps.
 
 ### Prerequisites
-
+- Having a web browser (I.E Chrome, Safari, Edge)
 ### Setup
 
 ### Install
